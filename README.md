@@ -1,6 +1,6 @@
 # Library Management System
 
-### Author: Sitender Narwal
+### BY: Sitender Narwal
 
 ## Project Overview
 This Library Management System is a console-based application written in C++. It provides a simple yet functional interface for managing a library's book inventory, user accounts, and an admin panel with special permissions. Users can create accounts, borrow and return books, search for books, and view available books in the library. The admin panel allows for additional functionality, such as adding and deleting books and managing user accounts.
