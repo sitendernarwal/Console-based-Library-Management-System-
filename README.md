@@ -1,7 +1,3 @@
-Certainly! Here is a `README.md` file for your Library Management System project, which you can use on GitHub. This document covers all the essential details of the project.
-
----
-
 # Library Management System
 
 ### Author: Sitender Narwal
@@ -117,6 +113,3 @@ void return_books(string book, string account_name) {
 - The project uses `unordered_map` and `set` from the C++ Standard Library for efficient data storage and retrieval.
 - Cross-platform screen clearing (`cls` for Windows and `clear` for Linux/macOS) has been implemented.
 
----
-
-Feel free to customize this `README.md` file for your repository and make any additional notes or modifications!
